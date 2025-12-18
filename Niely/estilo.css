@@ -292,6 +292,7 @@ main {
     width: 28rem;
     border-radius: 2.7rem;
     box-shadow: var(--rosa) 0px 54px 55px, var(--rosa) 0px -12px 30px,var(--dourado) 0px 4px 6px, var(--rosa) 0px 12px 13px, var(--rosa) 0px -3px 5px;
+    object-fit: cover;
 }
 
 @media (max-width: 768px) {
